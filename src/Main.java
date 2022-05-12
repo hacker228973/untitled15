@@ -7,7 +7,7 @@ public class Main {
 //        int degrees=scanner.nextInt();
 //        Converter converterKelvin = new Kelvin();
 //        converterKelvin.convert(degrees);
-        To to = new To();
-        to.to();
+
+        To.to();
     }
 }

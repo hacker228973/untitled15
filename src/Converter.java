@@ -1,5 +1,5 @@
 
 interface Converter {
 
-    void convert(int degrees);
+    float convert(float degrees);
 }
