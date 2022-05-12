@@ -2,7 +2,7 @@
 
 public class Kelvin implements Converter{
     @Override
-    public float convert(float degrees) {
+    public float createConverter(float degrees) {
 
 
 
