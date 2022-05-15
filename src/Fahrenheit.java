@@ -2,7 +2,7 @@
 
 public class Fahrenheit implements Converter{
     @Override
-    public float createConverter(float degrees) {
+    public float convert(float degrees) {
 
 
 //        System.out.println((int)(degrees * 1.2 + 32));

@@ -1,5 +1,5 @@
 
 interface Converter {
 
-    float createConverter(float degrees);
+    float convert(float degrees);
 }

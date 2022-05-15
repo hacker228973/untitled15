@@ -8,6 +8,6 @@ public class Main {
 //        Converter converterKelvin = new Kelvin();
 //        converterKelvin.convert(degrees);
 
-        To.convert();
+        To.createConverter();
     }
 }
